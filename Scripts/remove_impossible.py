@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as  np 
 import json
 
+
 def clean_impossible(json_file):
     for data in json_file['data']:
         for paragraph in data['paragraphs']:
