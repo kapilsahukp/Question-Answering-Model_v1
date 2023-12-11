@@ -6,6 +6,7 @@
     "strategy": "LongestFirst",
     "stride": 0
   },
+  
   "padding": {
     "strategy": "BatchLongest",
     "direction": "Right",
