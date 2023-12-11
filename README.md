@@ -1,5 +1,5 @@
 # Question-Answering-model
-SQuAD - Question Answering model
+SQuAD - Question-Answering model
 
 ---
 
